@@ -4,8 +4,8 @@
 # Created by Shiven 07/17/2021
 
 # MySQL config constants
-MYSQL_USERNAME = "root"
-MYSQL_PASSWORD = "omsairam"
+MYSQL_USERNAME = "*******"
+MYSQL_PASSWORD = "*******"
 MYSQL_HOST = "localhost"
 MYSQL_DB = "moviesDB"
 
